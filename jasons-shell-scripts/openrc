@@ -1,0 +1,9 @@
+
+  export OS_TENANT_NAME=admin
+  export OS_USERNAME=admin
+  export OS_PASSWORD=admin
+  export OS_AUTH_URL="http://10.119.238.34:5000/v2.0/"
+  export OS_AUTH_STRATEGY=keystone
+  export SERVICE_TOKEN=K1AbWp57
+  export SERVICE_ENDPOINT=http://10.119.238.34:35357/v2.0/
+  
